@@ -1,7 +1,7 @@
 # Progetto-Esame
 Il videogioco in questione è creato principalmente a scopo didattico e per diletto stesso dei due creators.
 
-<b><h3>GRAFICA<h3></b>
+<b><h3>GRAFICA<h3><b>
 
 La parte grafica ricorda i primi Super Mario, richiamando quindi l'attuale retrogaming ed i giochi anni '90.
 
