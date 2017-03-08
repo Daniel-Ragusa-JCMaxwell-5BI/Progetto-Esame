@@ -5,6 +5,14 @@
  Braum è un elfo oscuro acerrimo nemico della buona gente, egli punta a diventare il nuovo sovrano di Arnor, un regno governato da un gentile e saggio re per instaurare un regime basato sulla forza, sulla paura e sul terrore.
 Il giocatore impersonificherà proprio Braum il quale dovrà superare creature ostili, insidiose trappole, preparati cavalieri ed astuti stregoni.
 Riuscirai a guidare il nostro antieroe verso il trionfo e la gloria?
+
+//:Schermata iniziale
+Ciao giocatore, il mio nome è Braum e sono un elfo di Lindon, le terre nere.
+Ho atteso molto, anzi... Troppo, questo giorno.
+Mi sono allenato per anni attendendoti, perché tu sarai colui che mi porterà alla vittoria.
+Di cosa sto parlando? Ebbene, incominciamo dall'inizio...
+Questo è il regno di Arnor, il più vistoso e più prosperoso regno.
+Esso è governato da Gowther, un 
  
 <b><h2>GRAFICA</h2></b>
 
