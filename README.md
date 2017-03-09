@@ -12,7 +12,11 @@ Ho atteso molto, anzi... Troppo, questo giorno.
 Mi sono allenato per anni attendendoti, perché tu sarai colui che mi porterà alla vittoria.
 Di cosa sto parlando? Ebbene, incominciamo dall'inizio...
 Questo è il regno di Arnor, il più vistoso e più prosperoso regno.
-Esso è governato da Gowther, un re che all' apparenza sembra un uomo buno e saggio ma in raltà ha un cuore oscuro infatti quando ero solamente un elfo bambino bandì tutti gli esseri magicici dal regno; entrambi i mieri genitori si unirono alla restinza che voleva impedire che questo avvenisse, ma purtroppo mentre cercavano di usurpare il trono per ristabilire la pace vennero catturati e torturati fino alla morte.
+Esso è governato da Gowther, un re all'apparenza buono e saggio ma, in realtà, possiede un cuore avvolto dalle tenebre: quando ero ancora in fasce, egli esiliò tutti i popoli magici rendendo Arnor un regno abitato unicamente da umani.
+Tutti i rifugiati e coloro che contestarono, i miei genitori compresi, furono arrestati e condotti alla piazza centrale della capitale, venendo torturati, derisi ed infine uccisi.
+
+Io ho ora deciso di richiamare a me gli antichi abitanti di questi territori, gli umani la pagheranno cara.
+Per anni hanno giocato con i sentimenti propri ed altrui, insultando e beffandosi della natura ma ora, ora diventeranno loro degli animali da macello.
  
 <b><h2>GRAFICA</h2></b>
 
