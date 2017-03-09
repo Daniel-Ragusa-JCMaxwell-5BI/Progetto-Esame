@@ -12,7 +12,7 @@ Ho atteso molto, anzi... Troppo, questo giorno.
 Mi sono allenato per anni attendendoti, perché tu sarai colui che mi porterà alla vittoria.
 Di cosa sto parlando? Ebbene, incominciamo dall'inizio...
 Questo è il regno di Arnor, il più vistoso e più prosperoso regno.
-Esso è governato da Gowther, un re che all' apparenza sembra un uomo buno e saggio ma in raltà ha un cuore oscuro.
+Esso è governato da Gowther, un re che all' apparenza sembra un uomo buno e saggio ma in raltà ha un cuore oscuro infatti quando ero solamente un elfo bambino bandì tutti gli esseri magicici dal regno; entrambi i mieri genitori si unirono alla restinza che voleva impedire che questo avvenisse, ma purtroppo mentre cercavano di usurpare il trono per ristabilire la pace vennero catturati e torturati fino alla morte.
  
 <b><h2>GRAFICA</h2></b>
 
