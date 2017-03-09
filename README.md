@@ -6,7 +6,7 @@
 Il giocatore impersonificherà proprio Braum il quale dovrà superare creature ostili, insidiose trappole, preparati cavalieri ed astuti stregoni.
 Riuscirai a guidare il nostro antieroe verso il trionfo e la gloria?
 
-//:Schermata iniziale
+//:Schermata iniziale <br>
 Ciao giocatore, il mio nome è Braum e sono un elfo di Lindon, le terre nere.
 Ho atteso molto, anzi... Troppo, questo giorno.
 Mi sono allenato per anni attendendoti, perché tu sarai colui che mi porterà alla vittoria.
