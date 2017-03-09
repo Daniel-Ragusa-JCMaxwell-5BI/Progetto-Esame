@@ -22,8 +22,8 @@ Tutti i rifugiati e coloro che contestarono, compresi i miei genitori, furono ar
 Io ora ho deciso di richiamare a me gli antichi abitanti di questi territori, gli umani la pagheranno cara.
 Per anni hanno giocato con i sentimenti propri ed altrui, insultando e beffandosi della natura ma ora, ora diventeranno loro gli schiavi.
 
-Tu sei un umano?
--> Rispondi si: Frase di Braum, si torna all'inzizio.
+Tu sei un umano? <br>
+-> Rispondi si: Frase di Braum, si torna all'inzizio. <br>
 -> Rispondi no: Inizia il gioco.
 
 <b><h2>GRAFICA</h2></b>
