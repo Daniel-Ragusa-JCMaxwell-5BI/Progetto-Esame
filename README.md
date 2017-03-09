@@ -2,7 +2,7 @@
 
 <b><h2>TRAMA</h2></b>
 
-Braum è un elfo oscuro acerrimo amico della buona gente ma nemico degli umani.
+Braum è un elfo oscuro amico della buona gente ma nemico degli umani.
 Il regno di Arnor, luogo in cui si svolge la vicenda, è un regno governato da re molto apprezzato dalla razza odiata dal nostro protagonista.
 L'elfo infatti desidera instaurare un regime plurirazziale ed autoritario, nemico dell'umanità.
 
@@ -30,3 +30,12 @@ Gli sprite sono stati disegnati e/o colorati tramite l'appoggio di un sito creat
 <b><h2>INSTALLAZIONE</h2></b>
 
 <b><h2>USO</h2></b>
+
+
+
+
+Come procedere:
+
+- Finire ste cose
+- Menà iniziale con New game, Load game, Settings, Commands
+- Iniziare a fare il resto
