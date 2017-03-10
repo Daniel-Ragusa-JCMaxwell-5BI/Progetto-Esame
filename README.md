@@ -40,7 +40,12 @@ Gli sprite sono stati disegnati e/o colorati tramite l'appoggio di un sito creat
 
 
 Come procedere:
+- Progettazione, Realizzazione, etc. + stima dei tempi
+- Principali sprite
+- Principali script
+- Programmazione del resto
 
-- Finire ste cose
-- Menà iniziale con New game, Load game, Settings, Commands
-- Iniziare a fare il resto
+Idee:
+- Menù iniziale con New game, Load game, Settings, Commands
+- Schermata iniziale
+- 
