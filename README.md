@@ -1,5 +1,8 @@
 # Progetto-Esame
 
+<b><h2>DESCRIZIONE INIZIALE</h2></b>
+Cos'è, da chi è creato, etc.
+
 <b><h2>TRAMA</h2></b>
 
 Braum è un elfo oscuro amico della buona gente ma nemico degli umani.<br>
